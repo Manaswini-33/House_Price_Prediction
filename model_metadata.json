@@ -1,0 +1,1 @@
+{"features": ["bedrooms", "bathrooms", "sqft_living", "sqft_lot", "floors", "waterfront", "view", "condition", "sqft_above", "sqft_basement", "yr_built", "yr_renovated", "lat", "long", "sqft_living15", "sqft_lot15", "house_age", "total_sqft", "Grade_Semi-Structured", "Grade_Structured"], "r_squared": 0.9026, "target_transform": "log1p"}
